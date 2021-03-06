@@ -36,15 +36,6 @@
 
 ---
 
-</details>
-
-<details>
-  <summary>Github Stats</summary>
-
-  <img align="left" alt="nooraldarraji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nooraldarraji&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://nooraldarraji.dev
 [twitter]: https://twitter.com/nooraldarraji
 [linkedin]: https://linkedin.com/in/nooraldarraji
